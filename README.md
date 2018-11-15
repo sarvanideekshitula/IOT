@@ -24,16 +24,16 @@ We run a code in Arduino IDE connecting to the web server and once we receive th
 * Gopika J		    (AM.EN.U4CSE16027)
 * Nikitha N		    (AM.EN.U4CSE16245)
 
-### Individual Contriibution
+### Individual Contribution
 
-* D L Sarvani - 
-* Ch. Vennela - 
-* Gopika J - 
-* Nikitha N - 
+* D L Sarvani - Taken care of the code to control bulbs at different ports and HTML for the webpage.
+* Ch. Vennela - Taken care of the code to connect ESP8266 to Wifi and made ESP8266 as server.
+* Gopika J - Did the hardware connections which includes connecting bulbs to ESP8266 module using relays.
+* Nikitha N - Connected ESP8266 module to the code and tested the whole project with LEDS and rectified flaws.
 
 ### Individual Learning
 
-* D L Sarvani -
+* D L Sarvani - Learnt how to connect to different ports of ESP8266 and how to include HTML into ESP module.
 * Ch. Vennela - 
-* Gopika J - 
-* Nikitha N -
+* Gopika J -  Learnt how to use ESP8266 as client and how to communicate between client and server.
+* Nikitha N - Learnt how to use ESP8266 as server.
