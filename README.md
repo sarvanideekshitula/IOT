@@ -34,6 +34,6 @@ We run a code in Arduino IDE connecting to the web server and once we receive th
 ### Individual Learning
 
 * D L Sarvani - Learnt how to connect to different ports of ESP8266 and how to include HTML into ESP module.
-* Ch. Vennela - 
+* Ch. Vennela - Learnt how to use ESP8266 as client, implemented a echoserver. 
 * Gopika J -  Learnt how to use ESP8266 as client and how to communicate between client and server.
 * Nikitha N - Learnt how to use ESP8266 as server.
